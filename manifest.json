@@ -1,0 +1,11 @@
+{
+    "name": "calculator",
+    "version": "1.0.1",
+    "description": "simple calculator",
+    "manifest_version": 3,
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Calculator"
+    }
+}
